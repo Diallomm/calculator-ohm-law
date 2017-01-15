@@ -1,5 +1,5 @@
 # calculator-ohm-law
-fr
+FR
 ce programme permet de faire des calucles avec la loi d'ohm le programme vous demande 2 valeurs pour en deduire la troisieme le git comprend le fichier main.c pour ce qui veulent le compiler pour d'autres systemes t'elle que Windows ou mac pour les systeme unix il ya le fichier calculateur-loi-dohm qu'il faut excecuter en ouvrant le terminal et taper ./calculateur-loi-dohm pour le lancer 
 
 EN
